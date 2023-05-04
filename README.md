@@ -33,5 +33,7 @@ In this dashboard, we can see the details of the selected product which we had d
 
 *Customer Detail*
 --
+
+In this dashboard, we can get the customer detail & their purchase revenue. We also can categorize the customer orders on the basis of gender, Income, Occupation and age.
+
 ![Customer detail](https://user-images.githubusercontent.com/127972269/236231233-4f39c4d4-816a-48a2-82bd-cc894eb3723c.jpg)
-*Customer Detail*
